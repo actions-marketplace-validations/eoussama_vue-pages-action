@@ -1,5 +1,5 @@
 # Build Vue and deploy it to Github Pages 🚀
-This Action will Build your Vue Project and deploy it to Github Pages.
+This Action will Build your Vue Project and deploy it to Github Pages. Supports `npm`, `yarn`, and `pnpm`.
 
 ## Getting Started 🎉
 
